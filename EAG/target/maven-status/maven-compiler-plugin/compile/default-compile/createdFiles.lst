@@ -26,6 +26,7 @@ com\port\EAG\Security\Repository\iRolRepository.class
 com\port\EAG\Service\SEducacion.class
 com\port\EAG\Security\MainSecurity.class
 com\port\EAG\Security\Entity\Usuario.class
+com\port\EAG\WebConfig.class
 com\port\EAG\Repository\IpersonaRepository.class
 com\port\EAG\Repository\REducacion.class
 com\port\EAG\Controller\CEducacion.class
