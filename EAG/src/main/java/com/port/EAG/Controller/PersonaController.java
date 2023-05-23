@@ -21,27 +21,27 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 @RequestMapping("/personas")
-@CrossOrigin(origins = "http//localhost:4200")
+@CrossOrigin(origins = "http://localhost:4200")
 public class PersonaController {
     
     @Autowired IPersonaService ipersonaService;
     
-    @GetMapping("/personas/traer")
+    @GetMapping("/traer")
     public List<Persona> getPersona(){
         return ipersonaService.getPersona();
     }
-    @PostMapping("/personas/crear")
+    @PostMapping("/crear")
     public String crearPersona(@RequestBody Persona persona){
         ipersonaService.savePersona(persona);
         return "la persona fue creada correctamente";
     }
-    @DeleteMapping("/personas/borrar/{id}")
+    @DeleteMapping("/borrar/{id}")
     public String deletePersona(@PathVariable Long id){
         ipersonaService.deletePersona(id);
         return "la persona fue eliminada correctamente";
     }
 
-    @PutMapping("/personas/editar/{id}")
+    @PutMapping("/editar/{id}")
      public Persona editPersona(@PathVariable Long id,
                                 @RequestParam("nombre") String nuevoNombre,
                                 @RequestParam("apellido") String nuevoApellido,
@@ -55,7 +55,7 @@ public class PersonaController {
          ipersonaService.savePersona(persona);
          return persona;
      }
-     @GetMapping("/personas/traer/perfil")
+     @GetMapping("/traer/perfil")
      public Persona findPersona(){
          return ipersonaService.findPersona((long)1);
      }
