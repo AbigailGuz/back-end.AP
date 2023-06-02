@@ -1,3 +1,4 @@
+C:\Users\54354\PROYECTOFINAL\back-end.AP\src\main\java\com\port\EAG\Dto\dtoHys.java
 C:\Users\54354\PROYECTOFINAL\back-end.AP\src\main\java\com\port\EAG\Repository\IpersonaRepository.java
 C:\Users\54354\PROYECTOFINAL\back-end.AP\src\main\java\com\port\EAG\Security\Repository\iRolRepository.java
 C:\Users\54354\PROYECTOFINAL\back-end.AP\src\main\java\com\port\EAG\Security\Dto\LoginUsuario.java
@@ -9,6 +10,7 @@ C:\Users\54354\PROYECTOFINAL\back-end.AP\src\main\java\com\port\EAG\Security\Jwt
 C:\Users\54354\PROYECTOFINAL\back-end.AP\src\main\java\com\port\EAG\Security\Jwt\JwtTokenFilter.java
 C:\Users\54354\PROYECTOFINAL\back-end.AP\src\main\java\com\port\EAG\Interface\IPersonaService.java
 C:\Users\54354\PROYECTOFINAL\back-end.AP\src\main\java\com\port\EAG\Security\Enums\RolNombre.java
+C:\Users\54354\PROYECTOFINAL\back-end.AP\src\main\java\com\port\EAG\Controller\CHys.java
 C:\Users\54354\PROYECTOFINAL\back-end.AP\src\main\java\com\port\EAG\Repository\RExperiencia.java
 C:\Users\54354\PROYECTOFINAL\back-end.AP\src\main\java\com\port\EAG\Security\Entity\UsuarioPrincipal.java
 C:\Users\54354\PROYECTOFINAL\back-end.AP\src\main\java\com\port\EAG\Security\Service\UsuarioService.java
@@ -26,10 +28,13 @@ C:\Users\54354\PROYECTOFINAL\back-end.AP\src\main\java\com\port\EAG\Security\Con
 C:\Users\54354\PROYECTOFINAL\back-end.AP\src\main\java\com\port\EAG\Security\MainSecurity.java
 C:\Users\54354\PROYECTOFINAL\back-end.AP\src\main\java\com\port\EAG\WebConfig.java
 C:\Users\54354\PROYECTOFINAL\back-end.AP\src\main\java\com\port\EAG\Security\Entity\Usuario.java
+C:\Users\54354\PROYECTOFINAL\back-end.AP\src\main\java\com\port\EAG\Entity\hys.java
 C:\Users\54354\PROYECTOFINAL\back-end.AP\src\main\java\com\port\EAG\Controller\CEducacion.java
 C:\Users\54354\PROYECTOFINAL\back-end.AP\src\main\java\com\port\EAG\Controller\CExperiencia.java
+C:\Users\54354\PROYECTOFINAL\back-end.AP\src\main\java\com\port\EAG\Service\Shys.java
 C:\Users\54354\PROYECTOFINAL\back-end.AP\src\main\java\com\port\EAG\Entity\Experiencia.java
 C:\Users\54354\PROYECTOFINAL\back-end.AP\src\main\java\com\port\EAG\Security\Dto\JwtDto.java
 C:\Users\54354\PROYECTOFINAL\back-end.AP\src\main\java\com\port\EAG\Dto\dtoEducacion.java
 C:\Users\54354\PROYECTOFINAL\back-end.AP\src\main\java\com\port\EAG\Service\SEducacion.java
+C:\Users\54354\PROYECTOFINAL\back-end.AP\src\main\java\com\port\EAG\Repository\Rhys.java
 C:\Users\54354\PROYECTOFINAL\back-end.AP\src\main\java\com\port\EAG\Security\Jwt\JwtEntryPoint.java

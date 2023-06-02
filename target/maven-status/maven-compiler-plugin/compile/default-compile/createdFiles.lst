@@ -1,3 +1,5 @@
+com\port\EAG\Service\Shys.class
+com\port\EAG\Controller\CHys.class
 com\port\EAG\EagApplication.class
 com\port\EAG\Security\Enums\RolNombre.class
 com\port\EAG\Security\Controller\AuthController.class
@@ -11,6 +13,7 @@ com\port\EAG\Entity\Persona.class
 com\port\EAG\Interface\IPersonaService.class
 com\port\EAG\Security\Controller\Mensaje.class
 com\port\EAG\Dto\dtoExperiencia.class
+com\port\EAG\Repository\Rhys.class
 com\port\EAG\Controller\PersonaController.class
 com\port\EAG\Security\Dto\LoginUsuario.class
 com\port\EAG\Security\Service\RolService.class
@@ -21,6 +24,7 @@ com\port\EAG\Entity\Educacion.class
 com\port\EAG\Security\Jwt\JwtTokenFilter.class
 com\port\EAG\Security\Entity\UsuarioPrincipal.class
 com\port\EAG\Security\Entity\Rol.class
+com\port\EAG\Dto\dtoHys.class
 com\port\EAG\Security\Service\UsuarioService.class
 com\port\EAG\Security\Repository\iRolRepository.class
 com\port\EAG\Service\SEducacion.class
@@ -33,3 +37,4 @@ com\port\EAG\Controller\CEducacion.class
 com\port\EAG\Repository\RExperiencia.class
 com\port\EAG\Security\Service\UserDetailsImpl.class
 com\port\EAG\Controller\CExperiencia.class
+com\port\EAG\Entity\hys.class
