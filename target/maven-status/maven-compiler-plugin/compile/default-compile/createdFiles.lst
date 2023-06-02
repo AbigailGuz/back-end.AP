@@ -10,12 +10,12 @@ com\port\EAG\Security\Jwt\JwtEntryPoint.class
 com\port\EAG\Service\SExperiencia.class
 com\port\EAG\Security\Dto\NuevoUsuario.class
 com\port\EAG\Entity\Persona.class
-com\port\EAG\Interface\IPersonaService.class
 com\port\EAG\Security\Controller\Mensaje.class
 com\port\EAG\Dto\dtoExperiencia.class
 com\port\EAG\Repository\Rhys.class
 com\port\EAG\Controller\PersonaController.class
 com\port\EAG\Security\Dto\LoginUsuario.class
+com\port\EAG\Dto\dtoPersona.class
 com\port\EAG\Security\Service\RolService.class
 com\port\EAG\Security\Dto\JwtDto.class
 com\port\EAG\Dto\dtoEducacion.class

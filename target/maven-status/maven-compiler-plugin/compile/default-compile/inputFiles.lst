@@ -8,8 +8,8 @@ C:\Users\54354\PROYECTOFINAL\back-end.AP\src\main\java\com\port\EAG\Security\Ser
 C:\Users\54354\PROYECTOFINAL\back-end.AP\src\main\java\com\port\EAG\EagApplication.java
 C:\Users\54354\PROYECTOFINAL\back-end.AP\src\main\java\com\port\EAG\Security\Jwt\JwtProvider.java
 C:\Users\54354\PROYECTOFINAL\back-end.AP\src\main\java\com\port\EAG\Security\Jwt\JwtTokenFilter.java
-C:\Users\54354\PROYECTOFINAL\back-end.AP\src\main\java\com\port\EAG\Interface\IPersonaService.java
 C:\Users\54354\PROYECTOFINAL\back-end.AP\src\main\java\com\port\EAG\Security\Enums\RolNombre.java
+C:\Users\54354\PROYECTOFINAL\back-end.AP\src\main\java\com\port\EAG\Dto\dtoPersona.java
 C:\Users\54354\PROYECTOFINAL\back-end.AP\src\main\java\com\port\EAG\Controller\CHys.java
 C:\Users\54354\PROYECTOFINAL\back-end.AP\src\main\java\com\port\EAG\Repository\RExperiencia.java
 C:\Users\54354\PROYECTOFINAL\back-end.AP\src\main\java\com\port\EAG\Security\Entity\UsuarioPrincipal.java
